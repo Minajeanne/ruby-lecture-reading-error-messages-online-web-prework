@@ -1,3 +1,3 @@
-puts "hello world"
+"hello world"
 
-ruby hello_world.rb
+"hello_world"
